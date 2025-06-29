@@ -29,7 +29,17 @@ primeiras e segundas ninhadas.
 library(readxl) #carregando o pacote no ambiente virtual
 reprod3 <- read_excel("invest.reprod3.xlsx", sheet = 1, col_names = TRUE) #atribuindo os dados da planilha a uma variável
 attach(reprod3) #possibilitando acessar as variáveis de dentro da planilha pelo seu nome nela
+```
 
+    ## The following objects are masked _by_ .GlobalEnv:
+    ## 
+    ##     FM, FS, TOM
+
+    ## The following objects are masked from reprod3 (pos = 6):
+    ## 
+    ##     FM, FS, OS, TOM, TOM2
+
+``` r
 # Criando variáveis
 TOM <- (reprod3$TOM2) #criando objeto/variável total offspring mass
 ON <- (reprod3$OS) #criando objeto/variável offspring number
