@@ -11,6 +11,8 @@ Neste trabalho, analisamos como características das mães (tamanho e massa) se 
 
 Nossos resultados mostraram que o tamanho e a massa das mães não influenciaram o investimento nos filhotes, e não houve correlação estatística entre a massa total da ninhada e o tamanho dos filhotes. Assim como em espécies próximas, *T. pusillus* parece investir em ter mais filhotes, e não em filhotes mais pesados. Além disso, o padrão reprodutivo dessa espécie pode ajudar a garantir o sucesso reprodutivo e a alta abundância populacional.
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R logo" width="50"/> Todas as análises forma realizadas na linguagem R.
+
 ## 📂 Conteúdo do repositório
 
 - **reproductive_analysis.Rmd**: Análise estatística e geração dos outputs.
