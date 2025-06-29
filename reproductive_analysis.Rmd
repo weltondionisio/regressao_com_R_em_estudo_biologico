@@ -1,5 +1,5 @@
 ---
-title: "Análise de Performance de Desenvolvimento em Proles de Tityus stigmurus"
+title: "Análise de Performance de Desenvolvimento em Proles de Tityus pusillus"
 author: "Welton Dionisio"
 date: "2025-06-19"
 output: html_document
@@ -16,11 +16,11 @@ knitr::opts_chunk$set(
 
 ## Introdução
 
-Nessa pesquisa eu investiguei se havia diferença na performance de desenvolvimento em proles subsequentes de fêmeas do escorpião amarelo, *Tityus stigmurus*.
+Fêmeas maiores geralmente são associadas a um maior investimento nos filhotes, mas como os recursos são limitados, muitas espécies precisam equilibrar entre ter mais filhotes ou filhotes maiores. Esse tipo de relação ainda é pouco estudada em espécies que produzem várias ninhadas ao longo da vida.
 
-Embora os filhotes sejam clones da mãe, que se reproduz assexuadamente, é esperado que mães mais velhas produzam menor número de filhotes ou ao menos filhotes com um desenvolvimento prejudicado.
+Neste estudo, analisamos como características maternas (tamanho e massa das fêmeas) se relacionam com características das proles (número e massa dos filhotes) no escorpião *Tityus pusillus*. Para isso, utilizamos uma amostra de 166 filhotes provenientes de 20 fêmeas coletadas na Mata Atlântica do Brasil.
 
-Para avaliar isso, foram comparadas duas ninhadas consecutivas (primeira e segunda) de um amostra de fêmeas dessa espécie criadas em laboratório sob as mesmas condições de criação. O desenvolvimento dos filhotes foi acompanhado até que uma quantidade atingisse a fase adulta. Durante esse tempo, foram mensuradas características que apontam o "desempenho" das primeiras e segundas ninhadas.
+Nossos resultados mostraram que o tamanho e a massa das mães não influenciaram o investimento nos filhotes, e não houve correlação estatística entre a massa total da ninhada e o tamanho dos filhotes. Assim como em espécies próximas, *T. pusillus* parece investir em ter mais filhotes, e não em filhotes mais pesados. Esse padrão reprodutivo pode contribuir para o sucesso reprodutivo e alta abundância populacional da espécie.
 
 ## Métodos
 
