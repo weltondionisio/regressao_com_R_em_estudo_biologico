@@ -1,4 +1,4 @@
-Análise de Performance de Desenvolvimento em Proles de Tityus pusillus
+Relação entre Características Maternas e Desenvolvimento de Proles no escorpião Tityus pusillus
 ================
 Welton Dionisio
 2025-06-19

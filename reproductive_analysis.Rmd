@@ -1,5 +1,5 @@
 ---
-title: "Análise de Performance de Desenvolvimento em Proles de Tityus pusillus"
+title: "Relação entre Características Maternas e Desenvolvimento de Proles no escorpião Tityus pusillus"
 author: "Welton Dionisio"
 date: "2025-06-19"
 output: html_document
