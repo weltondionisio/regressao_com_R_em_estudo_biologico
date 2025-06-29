@@ -1,4 +1,4 @@
-# 🦂 Análise de Performance de Desenvolvimento em Proles de *Tityus pusillus*
+# 🦂 *Relação entre Características Maternas e Desenvolvimento de Proles no escorpião Tityus pusillus*
 
 > **📄 Baixe o artigo completo:**  
 > [https://kmkjournals.com/upload/PDF/IZ/IZ%20Vol%2020/invert20_1_090_096_DaSilva_et_al.pdf](https://kmkjournals.com/upload/PDF/IZ/IZ%20Vol%2020/invert20_1_090_096_DaSilva_et_al.pdf)
