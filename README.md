@@ -27,4 +27,4 @@ Nossos resultados mostraram que o tamanho e a massa das mães não influenciaram
 - [Welton Dionisio da Silva](https://github.com/weltondionisio)
 - [Perfil no ResearchGate](https://www.researchgate.net/profile/Welton-Dionisio-Da-Silva?ev=hdr_xprf)
 
-Sinta-se à vontade para explorar, reutilizar e citar este repositório em trabalhos.
+Sinta-se à vontade para explorar, reutilizar e citar esse estudo em trabalhos.
